@@ -4,3 +4,6 @@
 #### This is the `<h4>`,
 ##### This is the `<h5>`,
 ###### This is the `<h6>`, this is the smallest
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
